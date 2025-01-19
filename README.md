@@ -53,3 +53,11 @@ This program is designed to simulate a basic ATM system where users can perform 
 
 ### Code Files:
 1. `ATM_Sim.c`: contains full program.
+
+---
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
